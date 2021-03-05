@@ -27,4 +27,4 @@ export const getNewToken = async (refreshToken) => {
     return accessToken;
 }
 
-export const backendUrl =`http://${process.env.REACT_APP_BACKEND_HOST}:${process.env.REACT_APP_BACKEND_PORT}`;
+export const backendUrl =`https://${process.env.REACT_APP_BACKEND_HOST}:${process.env.REACT_APP_BACKEND_PORT}`;
