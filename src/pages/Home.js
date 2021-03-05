@@ -30,7 +30,7 @@ export default function Home() {
                 <p>Welcome to my bug tracker application!</p>
                 <p>Please note this is still a work in progress, so there might be a few bugs <b>*irony*</b>.</p>
                 <p>To test the application, login as followed:</p>
-                <p><b>Username: Boss</b></p>
+                <p><b>Username: boss</b></p>
                 <p><b>Password: 1234</b></p>
                 <p>Thank you for your time of checking out my bug tracker!</p>
             </Paper>
