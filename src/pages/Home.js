@@ -13,7 +13,7 @@ const useStyles = makeStyles((theme) => ({
         margin: "30px auto",
         padding: "10px",
         width: "300px",
-        height: "280px",
+        height: "210px",
         textAlign: "center",
         backgroundColor: "white",
         fontFamily: "Arial"
@@ -28,7 +28,6 @@ export default function Home() {
         <div className={classes.body}>
             <Paper className={classes.mainContent}>
                 <p>Welcome to my bug tracker application!</p>
-                <p>Please note this is still a work in progress, so there might be a few bugs <b>*irony*</b>.</p>
                 <p>To test the application, login as followed:</p>
                 <p><b>Username: boss</b></p>
                 <p><b>Password: 1234</b></p>
